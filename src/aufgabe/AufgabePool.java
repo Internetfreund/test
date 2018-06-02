@@ -1,6 +1,9 @@
 package aufgabe;
 import geometrie.*;
 
+
+
+//kommentar
 public class AufgabePool 
 {
     
